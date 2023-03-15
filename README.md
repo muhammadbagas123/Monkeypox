@@ -32,8 +32,10 @@ Monkeypox adalah virus zoonosis (virus yang ditularkan ke manusia dari hewan) de
 <p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/2.png" width="700" alt="Laravel Logo"></p>
 
 - user
-<p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/1.png" width="700" alt="Laravel Logo"></p>
-<p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/2.png" width="700" alt="Laravel Logo"></p>
+<p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/us.png" width="700" alt="Laravel Logo"></p>
+<p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/4.png" width="700" alt="Laravel Logo"></p>
+<p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/6.png" width="700" alt="Laravel Logo"></p>
+<p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/8.png" width="700" alt="Laravel Logo"></p>
 
 
 
