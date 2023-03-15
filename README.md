@@ -23,7 +23,7 @@ Monkeypox adalah virus zoonosis (virus yang ditularkan ke manusia dari hewan) de
 - change .env.examples to .env
 - php artisan serve
 
--username: admin1
+- username: admin1
 - password: admin123
 
 ## Example Results
