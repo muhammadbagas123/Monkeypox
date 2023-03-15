@@ -4,7 +4,7 @@
 
 ## About Monkeypox
 
-<p align="justify/left/right/center">
+<p align="justify">
 Monkeypox adalah virus zoonosis (virus yang ditularkan ke manusia dari hewan) dengan gejala yang mirip dengan yang terlihat di masa lalu pada pasien cacar, meskipun secara klinis tidak terlalu parah. Dengan pemberantasan cacar pada tahun 1980 dan penghentian selanjutnya dari vaksinasi cacar, monkeypox telah muncul sebagai orthopoxvirus yang paling penting bagi kesehatan masyarakat. Cacar monyet terutama terjadi di Afrika tengah dan barat, seringkali di dekat hutan hujan tropis, dan semakin sering muncul di daerah perkotaan. Hewan inang termasuk berbagai hewan pengerat dan primata non-manusia.
 </p>
 
@@ -26,7 +26,7 @@ Monkeypox adalah virus zoonosis (virus yang ditularkan ke manusia dari hewan) de
 
 ## Example Results
 - admin
-<img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/1.png" width="700" alt="Laravel Logo">
+<p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/1.png" width="700" alt="Laravel Logo"></p>
 
 ## Contributing
 
