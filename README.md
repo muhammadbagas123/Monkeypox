@@ -23,24 +23,19 @@ Monkeypox adalah virus zoonosis (virus yang ditularkan ke manusia dari hewan) de
 - change .env.examples to .env
 - php artisan serve
 
+-username: admin1
+- password: admin123
 
 ## Example Results
 - admin
 <p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/1.png" width="700" alt="Laravel Logo"></p>
+<p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/2.png" width="700" alt="Laravel Logo"></p>
+
+- user
 <p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/1.png" width="700" alt="Laravel Logo"></p>
-<p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/1.png" width="700" alt="Laravel Logo"></p>
+<p align="center"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/2.png" width="700" alt="Laravel Logo"></p>
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
