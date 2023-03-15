@@ -26,7 +26,7 @@ Monkeypox adalah virus zoonosis (virus yang ditularkan ke manusia dari hewan) de
 
 ## Example Results
 - admin
-<img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/1.png" width="400" alt="Laravel Logo">
+<img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/1.png" width="700" alt="Laravel Logo">
 
 ## Contributing
 
