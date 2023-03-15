@@ -8,19 +8,23 @@
 Monkeypox adalah virus zoonosis (virus yang ditularkan ke manusia dari hewan) dengan gejala yang mirip dengan yang terlihat di masa lalu pada pasien cacar, meskipun secara klinis tidak terlalu parah. Dengan pemberantasan cacar pada tahun 1980 dan penghentian selanjutnya dari vaksinasi cacar, monkeypox telah muncul sebagai orthopoxvirus yang paling penting bagi kesehatan masyarakat. Cacar monyet terutama terjadi di Afrika tengah dan barat, seringkali di dekat hutan hujan tropis, dan semakin sering muncul di daerah perkotaan. Hewan inang termasuk berbagai hewan pengerat dan primata non-manusia.
 </p>
 
+## Requirements
+
+- php 8.0
+- laravel 10
 
 ## Installation
 
-- git clone
+- git clone https://github.com/muhammadbagas123/Monkeypox.git
 - composer install
 - composer update
-- 
+- create DB localhost "monkeypox"
+- import DB monkeypox.sql to localhost monkeypox
+- change .env.examples to .env
+- php artisan serve
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
+### Example Results
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
